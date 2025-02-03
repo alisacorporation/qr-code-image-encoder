@@ -1,0 +1,14 @@
+{
+  "name": "qr-photo-generator",
+  "version": "1.0.0",
+  "description": "A simple app to generate QR codes from uploaded photos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "qrcode": "^1.4.4"
+  }
+}
