@@ -12,7 +12,6 @@ This is a web application that allows users to upload images and generate QR cod
 - HTML
 - JavaScript
 - Tailwind CSS
-- jQuery
 
 ## How to Start the Project
 1. Clone the repository: `git clone https://github.com/alisacorporation/qr-code-image-encoder`
